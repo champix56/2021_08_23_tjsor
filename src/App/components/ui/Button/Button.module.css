@@ -1,0 +1,21 @@
+.Button{
+    padding: 7px 15px;
+    margin: 5px 10px;
+    border-radius: 7px;
+    border:none;
+  
+    /* background-color: skyblue;
+    color: white; */
+    font-size: 17pt;
+    font-weight: 900;
+}
+.Button.shadow{
+    box-shadow: 10px 10px 15px grey;
+}
+.Button.shadow:hover{
+    box-shadow: 8px 8px 13px grey;
+}
+.Button:hover{
+    border:1px solid white;
+}
+
