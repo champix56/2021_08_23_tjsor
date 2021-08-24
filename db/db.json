@@ -1,0 +1,39 @@
+{
+  "memes": [
+    {
+      "id": 0,
+      "text": "Breizh ma bro",
+      "x": 100,
+      "y": 100,
+      "imageId": 0,
+      "color": "#ACACAC",
+      "fontSize": 20,
+      "underline": true,
+      "italic": true
+    },
+    {
+      "text": "Coucou sous la pluie de bretagne",
+      "x": 100,
+      "y": 100,
+      "imageId": 0,
+      "color": "#ACACAC",
+      "fontSize": 20,
+      "underline": true,
+      "italic": true,
+      "id": 1
+    }
+  ],
+  "images": [
+    {
+      "id": 0,
+      "filename": "1.jpg",
+      "titre": "image1",
+      "w": 1024,
+      "h": 768
+    }
+  ],
+  "autheur": {
+    "name": "alex",
+    "nick": "champix"
+  }
+}
