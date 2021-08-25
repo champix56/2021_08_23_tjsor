@@ -1,35 +1,96 @@
 {
   "memes": [
     {
-      "id": 0,
-      "text": "Breizh ma bro",
-      "x": 100,
-      "y": 100,
-      "imageId": 0,
-      "color": "#ACACAC",
-      "fontSize": 20,
+      "text": "J'ai fais du vanillia JS",
+      "x": 17,
+      "y": 140,
+      "imageId": 3,
+      "fontSize": 120,
       "underline": true,
-      "italic": true
+      "italic": false,
+      "fontWeight": "900",
+      "color": "#6a0101",
+      "id": 1
     },
     {
-      "text": "Coucou sous la pluie de bretagne",
-      "x": 100,
-      "y": 100,
-      "imageId": 0,
-      "color": "#ACACAC",
-      "fontSize": 20,
+      "text": "Object.freeze(philipJFry)",
+      "x": 42,
+      "y": 116,
+      "imageId": 1,
+      "fontSize": 101,
       "underline": true,
       "italic": true,
-      "id": 1
+      "fontWeight": "900",
+      "color": "#f9f1f1",
+      "id": 2
+    },
+    {
+      "text": "Le paradigme Javascript",
+      "x": 50,
+      "y": 100,
+      "imageId": 5,
+      "fontSize": 50,
+      "underline": true,
+      "italic": true,
+      "fontWeight": 500,
+      "color": "#ededed",
+      "id": 3
+    },
+    {
+      "text": "Le paradigme Javascript",
+      "x": 50,
+      "y": 100,
+      "imageId": 5,
+      "fontSize": 50,
+      "underline": true,
+      "italic": true,
+      "fontWeight": 500,
+      "color": "#ededed",
+      "id": 4
     }
   ],
   "images": [
     {
-      "id": 0,
-      "filename": "1.jpg",
-      "titre": "image1",
-      "w": 1024,
-      "h": 768
+      "filename": "freeze.png",
+      "titre": "philip j fry",
+      "w": 1920,
+      "h": 1080,
+      "id": 1
+    },
+    {
+      "filename": "gwen.jpg",
+      "titre": "Oh breizh ma bro",
+      "w": 1350,
+      "h": 759,
+      "id": 2
+    },
+    {
+      "filename": "homer.jpg",
+      "titre": "Homer prison",
+      "w": 1200,
+      "h": 628,
+      "id": 3
+    },
+    {
+      "filename": "homer2.jpg",
+      "titre": "Homer thinking",
+      "w": 1440,
+      "h": 810,
+      "id": 4
+    },
+    {
+      "filename": "rick.jpg",
+      "titre": "rick",
+      "w": 850,
+      "h": 540,
+      "id": 5
+    },
+    {
+      "filename": "sticker.jpg",
+      "titre": "rick sticker",
+      "w": 600,
+      "h": 600,
+      "id": 6
     }
   ],
   "autheur": {

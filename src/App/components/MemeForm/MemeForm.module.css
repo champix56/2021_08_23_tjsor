@@ -1,1 +1,8 @@
-.MemeForm {}
+.MemeForm { text-align: center;}
+.shortInput{
+    width:60px;
+}
+.largeInput{
+    width:80%;
+    height:40px;
+}
